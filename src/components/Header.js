@@ -17,6 +17,9 @@ const Header = () => {
             <li className="nav-item">
               <Link className="nav-link white-text" to='/register' style={{ color: 'white' }}>Register</Link>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link white-text" to='/courses' style={{ color: 'white' }}>Courses</Link>
+            </li>
           </ul>
         </div>
       </div>
